@@ -1,4 +1,4 @@
-baseURL = "https://blog.hsiehmin.com/"
+baseURL = "https://hsiehmin.com/"
 locale = "zh-tw"
 defaultContentLanguage = "zh-tw"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "謝明 - 那些人那些事"
@@ -53,7 +53,7 @@ copyright = ""            # default: author.name ↓        # 預設為下面配
   url = "/categories/"
 
 [params]
-  author = { name = "Hsiehmin" }
+  author = { name = "謝明" }
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
