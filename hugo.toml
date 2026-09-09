@@ -98,7 +98,7 @@ copyright = ""            # default: author.name ↓        # 預設為下面配
   mathjaxEnableAutoNumber = false                                                       # 是否使用公式自動編號
   mathjaxUseLocalFiles = false  # You should install mathjax in `your-site/static/lib/mathjax`
 
-  postMetaInFooter = true   # contain author, lastMod, markdown link, license           # 包含作者，上次修改時間，markdown連結，許可資訊
+  postMetaInFooter = false   # contain author, lastMod, markdown link, license           # 包含作者，上次修改時間，markdown連結，許可資訊
   linkToMarkDown = false    # Only effective when hugo will output .md files.           # 連結到markdown原始檔案（僅當允許hugo生成markdown檔案時有效）
   contentCopyright = ''     # e.g. '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
